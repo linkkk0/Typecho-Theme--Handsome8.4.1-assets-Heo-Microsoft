@@ -1,20 +1,22 @@
 {
-  "name": "cicd-demo",
+  "name": "Typecho_Theme_Handsome8.4.1_assets_Heo_Microsoft",
   "version": "1.0.0",
-  "description": "",
+  "description": "handsome8.4.1静态资源",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/992990831/cicd-demo.git"
+    "url": "git+https://github.com/linkkk0/Typecho_Theme_Handsome8.4.1_assets_Heo_Microsoft.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+  "assets"
+  ],
+  "author": "linkkk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/992990831/cicd-demo/issues"
+    "url": "https://github.com/linkkk0/Typecho_Theme_Handsome8.4.1_assets_Heo_Microsoft/issues"
   },
-  "homepage": "https://github.com/992990831/cicd-demo#readme"
+  "homepage": "https://github.com/linkkk0/Typecho_Theme_Handsome8.4.1_assets_Heo_Microsoft#readme"
 }
